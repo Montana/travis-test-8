@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 set -o pipefail
 
 declare -r sbt_release_version="1.3.12"
