@@ -16,4 +16,4 @@ arch:
 
 script:
   - export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-s390x && export PATH=$JAVA_HOME/bin:$PATH;
-  - chmod u+x ./sbt test
+  - chmod u+x ./sbt
